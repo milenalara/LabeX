@@ -1,6 +1,6 @@
 # Labe X
 
-Simula site de viagens espaciais. Desenvolvido durante o curso Web Full Stack da Labenu. Faz integração com API fornecida pela Labenu. Estilização feita utilizando o design system Material UI.
+Simula site de viagens espaciais. Desenvolvido durante o curso Web Full Stack da Labenu na 10ª semana. Feito com React.js, tem integração com API fornecida pela Labenu. Estilização feita utilizando o design system Material UI.
 
 ## Tecnologias
 
